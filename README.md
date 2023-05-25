@@ -30,7 +30,7 @@ Contribuições para aprimorar o Stockify são bem-vindas! Se você tiver alguma
 O Stockify é um software de código aberto licenciado sob a MIT License. Sinta-se livre para usar, modificar e distribuir o aplicativo de acordo com os termos da licença.
 
   <h2>Contato</h2>
-Para obter mais informações sobre o Stockify, entre em contato conosco em [email protected] ou visite nosso site em www.stockify.com.
+Para obter mais informações sobre o Stockify, entre em contato conosco atraves do github!
 
 Esperamos que o Stockify seja uma ferramenta útil para o gerenciamento eficiente do estoque em sua empresa!
 
