@@ -33,6 +33,8 @@ O Stockify é um software de código aberto licenciado sob a MIT License. Sinta-
 Para obter mais informações sobre o Stockify, entre em contato conosco atraves do github!
 
 Esperamos que o Stockify seja uma ferramenta útil para o gerenciamento eficiente do estoque em sua empresa!
+  <h2>Home page</h2>
+  <img src='./img/readme.png'>
 
 
 
