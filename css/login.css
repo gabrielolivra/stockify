@@ -1,0 +1,83 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{background-color: #30BCED;
+font-family: Roboto;}
+
+main{display:flex;
+justify-content: center;
+flex-direction: column;}
+
+form{
+    background-color: #FFFAFF;
+    width: 400px;
+    height:400px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:150px auto;
+    border-radius: 10px;
+}
+ 
+.inputs{
+    display:flex;
+    flex-direction: column;
+    margin:10px;
+}
+input[type=email]{
+    width:300px;
+    height:30px;
+    border:none;
+    outline:none;
+    border-bottom:1px solid #004AAD;
+    background:transparent;
+    padding: 5px;
+    color:#004AAD;
+    font-weight: 400;
+
+}
+
+input[type=password]{
+    width:300px;
+    height:30px;
+    border:none;
+    outline:none;
+    border-bottom:1px solid #004AAD;
+    background:transparent;
+    padding: 5px;
+    color:#004AAD;
+    box-shadow: none;
+
+
+}
+input[type=submit]{
+    width:250px;
+    height:40px;
+    border:none;
+    border-radius:5px;
+    background-color: #004AAD;
+    color:white;
+    cursor:pointer;
+    font-size:16px;
+    font-weight: 600;
+    margin-top:20px;
+}
+
+img{width:180px;
+height:170px;
+background:transparent;}
+
+label{
+    color:#004AAD;
+    font-weight: 600;
+}
+
+input::placeholder {
+    background: transparent;
+  }
+  

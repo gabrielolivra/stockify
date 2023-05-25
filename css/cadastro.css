@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{background-color: #30BCED;
+font-family: Roboto;}
+
+main{display:flex;
+align-items: center;
+justify-content: space-evenly;
+margin:100px auto;}
+
+main img{
+    width:500px;
+    height: 500px;
+}
+form{
+    background-color: #FFFAFF;
+    width: 400px;
+    height:400px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+form h1{
+    padding:5px;
+    color:rgb(47, 46, 65);
+}
+.container-input{
+    display:flex;
+    flex-direction: column;
+    margin:10px;
+}
+input[type=email], input[type=text], input[type=password]{
+    width:300px;
+    height:30px;
+    border:none;
+    outline:none;
+    border-bottom:1px solid #004AAD;
+    background:transparent;
+    padding: 5px;
+    color:#004AAD;
+    font-weight: 400;
+
+}
+
+input[type=submit]{
+    width:250px;
+    height:40px;
+    border:none;
+    border-radius:5px;
+    background-color: #004AAD;
+    color:white;
+    cursor:pointer;
+    font-size:16px;
+    font-weight: 600;
+    margin-top:20px;
+}
