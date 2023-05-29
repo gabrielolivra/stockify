@@ -15,8 +15,7 @@ O Stockify é uma aplicação em PHP desenvolvida para simplificar o gerenciamen
 <li>Conexão com a internet para acesso às bibliotecas externas (caso necessário)
   <h2>Como Instalar</h2>
 <li>Clone o repositório do Stockify em sua máquina local.
-<li>Configure as informações de acesso ao banco de dados no arquivo config.php.
-<li>Execute o script SQL fornecido no arquivo database.sql para criar a estrutura do banco de dados.
+<li>Execute o script SQL fornecido no arquivo estoque.sql para criar a estrutura do banco de dados.
 <li>Abra o aplicativo em seu navegador e comece a gerenciar seu estoque!
   <h2>Tecnologias Utilizadas</h2>
 <li>PHP: linguagem de programação principal.
